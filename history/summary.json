@@ -4,7 +4,7 @@
     "url": "https://mejiaforcontroller.com",
     "icon": "https://favicons.githubusercontent.com/mejiaforcontroller.com",
     "slug": "mejia-for-controller",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 1136,
     "timeMonth": 1136,
     "timeYear": 1136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-10": 0
+    }
   }
 ]
